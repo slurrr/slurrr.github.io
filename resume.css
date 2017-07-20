@@ -3,6 +3,11 @@ body {
 }
 
 .face-shot{
-  border: solid 4px black;
-  border-radius: 50%;
+  border: solid 3px grey;
+  border-radius: 15%;
+}
+
+h1 {
+  background-color: #e2e2e2;
+  padding: .333em;
 }
