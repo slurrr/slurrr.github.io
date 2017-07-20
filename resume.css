@@ -1,1 +1,8 @@
+body {
+  font-family: Arial; 
+}
 
+.face-shot{
+  border: solid 4px black;
+  border-radius: 50%;
+}
