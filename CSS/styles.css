@@ -54,25 +54,22 @@ a:hover {
 }
 
 header {
-  background: url('/images/edithLake.jpg') no-repeat top center ;
-  z-index: -10;
-  position: fixed;
-  left: 50%;
-  top: 50%;
-  width: 90%;
-  height: 50%;
-  max-height: 450px;
-  display: none;
-  opacity: 0.5;
-  overflow: hidden;
+  //z-index: -10;
+  //position: fixed;
+  //left: 50%;
+  //top: 50%;
+  //width: 90%;
+  //height: 50%;
+  //max-height: 450px;
+  //display: none;
+  //opacity: 0.5;
+  //overflow: hidden;
   transform: translate(-50%,-50%);
-  /*
   text-align: center fixed;
-  
+  background: url('/images/edithLake.jpg') no-repeat fixed center;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
-  */
 }
 header {
   line-height: 1.5;
