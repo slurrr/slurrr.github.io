@@ -67,7 +67,7 @@ header {
   //transform: translate(-50%,-50%);
   text-align: center fixed;
   background: url('/images/edithLake.jpg') no-repeat fixed center;
-  background-size: cover;
+  background-size: contain;
   overflow: hidden;
   padding-top: 60px;
 }
