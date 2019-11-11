@@ -66,10 +66,10 @@ header {
   //overflow: hidden;
   //transform: translate(-50%,-50%);
   text-align: top fixed;
-  background: url('/images/edithLake.jpg') no-repeat fixed center;
-  background-size: contain;
+  background: url('/images/edithLake.jpg') no-repeat fixed top center;
+  background-size: 90%;
   overflow: hidden;
-  padding-top: 60px;
+  padding-top: 30px;
 }
 header {
   line-height: 1.5;
@@ -202,7 +202,7 @@ a.social:hover {
   }
 
   main {
-    padding-top: 50px;
+    padding-top: 20px;
   }
 
   main p {
