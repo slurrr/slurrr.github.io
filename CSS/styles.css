@@ -96,7 +96,7 @@ header .profile-image:hover {
 } 
 .location {
   background-color: #222;
-  color: yellow;
+  color: #ff9904;
 }
 .card {
   margin: 30px;
@@ -108,7 +108,7 @@ header .profile-image:hover {
   border-radius: 6px;
 }
 .card:hover {
-  border-color: #ff99ff;
+  border-color: #ff9904;
 }
 
 ul.skills {
