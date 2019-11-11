@@ -54,6 +54,7 @@ a:hover {
 }
 
 header {
+  background: url('/images/edithLake.jpg') no-repeat top center ;
   z-index: -10;
   position: fixed;
   left: 50%;
@@ -67,7 +68,7 @@ header {
   transform: translate(-50%,-50%);
   /*
   text-align: center fixed;
-  background: url('/images/edithLake.jpg') no-repeat top center ;
+  
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
